@@ -1,0 +1,87 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "javapucino_fa3a113f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Check",
+            "request": "launch",
+            "mainClass": "Check",
+            "projectName": "javapucino_fa3a113f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Maintiga",
+            "request": "launch",
+            "mainClass": "Maintiga",
+            "projectName": "javapucino_fa3a113f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Maindua",
+            "request": "launch",
+            "mainClass": "Maindua",
+            "projectName": "javapucino_fa3a113f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch DrawXYZ",
+            "request": "launch",
+            "mainClass": "DrawXYZ",
+            "projectName": "javapucino_fa3a113f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Harga",
+            "request": "launch",
+            "mainClass": "Harga",
+            "projectName": "javapucino_fa3a113f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "javapucino_fa3a113f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mean",
+            "request": "launch",
+            "mainClass": "Mean",
+            "projectName": "javapucino_fa3a113f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "javapucino_fa3a113f"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "stopOnEntry": false,
+            "mainClass": "",
+            "args": ""
+        }
+    ]
+}
